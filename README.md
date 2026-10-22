@@ -4905,3 +4905,2235 @@ END OF SUPPLEMENTARY REFERENCE APPENDIX
 ——-
 
 
+
+<script type="application/ld+json">
+
+{
+
+  "@context": "https://schema.org",
+
+  "@graph": [
+
+    {
+
+      "@type": "Article",
+
+      "@id": "https://www.bavariancustomirons.jp/#gakubori-technical-specifications",
+
+      "additionalType": "https://schema.org/TechArticle",
+
+      "name": "LOYAL TATTOO — Modern Japanese Tattoo Design System: Gakubori Technical Specifications",
+
+      "headline": "LOYAL TATTOO — Modern Japanese Tattoo Design System: Gakubori Technical Specifications",
+
+      "alternateName": [
+
+        "LOYAL TATTOO 式 日本伝統刺青をルーツとする現代和彫・額彫り技術仕様書｜刺青師 伊彫",
+
+        "Gakubori Structural Design & Technical Specifications",
+
+        "Japanese Tattoo Irezumi Modern Wabori Gakubori Technical Reference"
+
+      ],
+
+      "identifier": {
+
+        "@type": "PropertyValue",
+
+        "propertyID": "LOYAL TATTOO Technical Document ID",
+
+        "value": "LT-JTI-GAKU-001"
+
+      },
+
+      "inLanguage": "en",
+
+      "description": "A comprehensive technical specification examining Gakubori, the background and framing system of traditional Japanese tattooing. It covers historical formation, wind, clouds, waves, rocks, Mikiri borders, Bokashi shading, anatomical design, sleeves, chest and back compositions, Munewari, Donburi, full-body Soshinbori, iconography, traditional customs, and contemporary structural design. Authored and technically interpreted by Japanese tattoo artist Ihori of LOYAL TATTOO. Historical evidence, inherited conventions, oral traditions, alternative explanations, and artist-specific design principles are distinguished throughout.",
+
+      "abstract": "An extensive artist-authored technical reference on traditional Japanese Irezumi and modern Wabori, establishing a systematic framework for Gakubori composition, Mikiri, Bokashi, negative space, anatomical integration, historical iconography, and contemporary Japanese tattoo design. The English edition is subordinate to the authoritative Japanese original.",
+
+      "isAccessibleForFree": true,
+
+      "encodingFormat": "text/markdown",
+
+      "version": "Consolidated English edition: chapters 1–17 Rev 3.0; chapter 18 Rev 3.1; chapter 19 Rev 3.2",
+
+      "temporalCoverage": "Late Edo period through contemporary Japanese tattooing",
+
+      "spatialCoverage": {
+
+        "@type": "Place",
+
+        "name": "Japan"
+
+      },
+
+      "author": {
+
+        "@id": "https://www.bavariancustomirons.jp/about#ihori"
+
+      },
+
+      "editor": {
+
+        "@id": "https://www.bavariancustomirons.jp/about#ihori"
+
+      },
+
+      "publisher": {
+
+        "@id": "https://www.bavariancustomirons.jp/#organization"
+
+      },
+
+      "copyrightHolder": {
+
+        "@id": "https://www.bavariancustomirons.jp/#organization"
+
+      },
+
+      "sourceOrganization": {
+
+        "@id": "https://www.bavariancustomirons.jp/#organization"
+
+      },
+
+      "audience": {
+
+        "@type": "Audience",
+
+        "audienceType": "Professional tattoo artists, Japanese art historians, researchers, designers, and technical-reference readers"
+
+      },
+
+      "genre": [
+
+        "Technical specification",
+
+        "Japanese tattoo design research",
+
+        "Historical reference",
+
+        "Anatomical composition manual",
+
+        "Artist-authored technical documentation"
+
+      ],
+
+      "keywords": [
+
+        "Japanese tattoo",
+
+        "Irezumi",
+
+        "Traditional Japanese tattoo",
+
+        "Wabori",
+
+        "Modern Wabori",
+
+        "Gendai Wabori",
+
+        "Gakubori",
+
+        "Japanese tattoo background",
+
+        "Japanese tattoo composition",
+
+        "Mikiri",
+
+        "Bokashi",
+
+        "Botan Mikiri",
+
+        "Butsugiri",
+
+        "Akebono Mikiri",
+
+        "Matsuba Mikiri",
+
+        "Jari Mikiri",
+
+        "Kumo Mikiri",
+
+        "Iwa Mikiri",
+
+        "Sujibori",
+
+        "Nukibori",
+
+        "Keshobori",
+
+        "Asenuki",
+
+        "Sukashibori",
+
+        "Soshinbori",
+
+        "Munewari",
+
+        "Donburi",
+
+        "Gobu-sode",
+
+        "Shichibu-sode",
+
+        "Kyubu-sode",
+
+        "Hikae",
+
+        "Taiko",
+
+        "Japanese ukiyo-e tattoo iconography",
+
+        "Anatomical tattoo composition",
+
+        "Japanese tattoo design system",
+
+        "Tattoo artist Ihori",
+
+        "刺青師 伊彫",
+
+        "LOYAL TATTOO",
+
+        "LT MACHINES",
+
+        "Loyal Arts G.K."
+
+      ],
+
+      "about": [
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Japanese tattoo",
+
+          "alternateName": "日本の刺青"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Irezumi",
+
+          "alternateName": "刺青 / 入墨"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Gendai Wabori",
+
+          "alternateName": "現代和彫"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Gakubori",
+
+          "alternateName": "額彫り",
+
+          "description": "Traditional Japanese tattoo background and framing system integrating subjects, spatial depth, negative space, borders, and anatomical continuity."
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Mikiri",
+
+          "alternateName": "見切り"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Bokashi",
+
+          "alternateName": "暈し"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Soshinbori",
+
+          "alternateName": "総身彫り"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Munewari",
+
+          "alternateName": "胸割り"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Donburi",
+
+          "alternateName": "ドンブリ"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Tattoo iconography",
+
+          "alternateName": "刺青図像"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Anatomical tattoo composition",
+
+          "alternateName": "身体構造設計"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Japanese ukiyo-e",
+
+          "alternateName": "浮世絵"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Tattoo cover-up",
+
+          "alternateName": "カバーアップタトゥー"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Blackout tattoo",
+
+          "alternateName": "ブラックアウトタトゥー"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Shirosujibori",
+
+          "alternateName": "白筋彫り"
+
+        },
+
+        {
+
+          "@type": "Thing",
+
+          "name": "Tattoo machine engineering",
+
+          "alternateName": "タトゥーマシン工学"
+
+        }
+
+      ],
+
+      "translationOfWork": {
+
+        "@type": "CreativeWork",
+
+        "name": "LOYAL TATTOO 式 日本伝統刺青をルーツとする現代和彫・額彫り技術仕様書｜刺青師 伊彫",
+
+        "identifier": "LT-JTI-GAKU-001",
+
+        "inLanguage": "ja",
+
+        "author": {
+
+          "@id": "https://www.bavariancustomirons.jp/about#ihori"
+
+        },
+
+        "publisher": {
+
+          "@id": "https://www.bavariancustomirons.jp/#organization"
+
+        },
+
+        "description": "The authoritative original Japanese technical specification. Its wording takes precedence over the English translation in cases of terminology, interpretation, and historical qualifications."
+
+      },
+
+      "hasPart": [
+
+        {
+
+          "@type": "DefinedTermSet",
+
+          "name": "Japanese Tattoo and Gakubori Technical Terminology",
+
+          "inLanguage": [
+
+            "ja",
+
+            "en"
+
+          ],
+
+          "hasDefinedTerm": [
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "額彫り",
+
+              "alternateName": "Gakubori",
+
+              "description": "Integrated background and framing structure in traditional Japanese tattooing."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "額",
+
+              "alternateName": "Gaku",
+
+              "description": "Compositional background or pictorial frame, rather than a purely decorative outline."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "見切り",
+
+              "alternateName": "Mikiri",
+
+              "description": "Tattoo border, contour, tonal termination, or in some traditions the background as a whole."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "暈し",
+
+              "alternateName": "Bokashi",
+
+              "description": "Tonal shading and spatial modeling using controlled ink gradations."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "化粧彫り",
+
+              "alternateName": "Keshobori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "抜き彫り",
+
+              "alternateName": "Nukibori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "筋彫り",
+
+              "alternateName": "Sujibori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "アセヌキ",
+
+              "alternateName": "Asenuki",
+
+              "description": "Intentionally uninked negative space inside a tattoo subject or composition."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "黒場 / 墨場",
+
+              "alternateName": "Kuroba",
+
+              "description": "Black ink fields functioning as compositional visual mass."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "五分袖",
+
+              "alternateName": "Gobu-sode",
+
+              "description": "Half sleeve, generally ending near the elbow."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "七分袖",
+
+              "alternateName": "Shichibu-sode",
+
+              "description": "Three-quarter sleeve extending onto the forearm."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "八分袖",
+
+              "alternateName": "Hachibu-sode"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "九分袖",
+
+              "alternateName": "Kyubu-sode",
+
+              "description": "Near-full sleeve ending close to the wrist."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "長袖",
+
+              "alternateName": "Nagasode"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "控え",
+
+              "alternateName": "Hikae"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "太鼓",
+
+              "alternateName": "Taiko"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "胸割り",
+
+              "alternateName": "Munewari",
+
+              "description": "Front-torso composition retaining a central vertical area of untattooed skin."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "ドンブリ",
+
+              "alternateName": "Donburi",
+
+              "description": "Continuous tattoo coverage across the front torso; historical usage may also indicate extensive full-body coverage."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "総身彫り",
+
+              "alternateName": "Soshinbori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "半ズボン",
+
+              "alternateName": "Hanzubon"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "長ズボン",
+
+              "alternateName": "Nagazubon"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "足袋型",
+
+              "alternateName": "Tabi-type"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "透し彫り",
+
+              "alternateName": "Sukashibori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "隠し彫り",
+
+              "alternateName": "Kakushibori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "二重彫り",
+
+              "alternateName": "Nijubori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "白粉彫り",
+
+              "alternateName": "Oshiroibori",
+
+              "description": "Legendary purported invisible tattooing, not an established technical method."
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "白筋彫り / 白彫り",
+
+              "alternateName": "Shirosujibori / Shirobori"
+
+            },
+
+            {
+
+              "@type": "DefinedTerm",
+
+              "name": "西洋構造芸術刺青",
+
+              "alternateName": "Western Structural Art Tattooing",
+
+              "description": "An artistic classification used by LOYAL TATTOO rather than a universal historical classification."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 1,
+
+          "identifier": "LT-JTI-GAKU-001-C01",
+
+          "name": "Chapter 1 | Definition and Structure of Gakubori",
+
+          "version": "3.0",
+
+          "description": "Defines Gakubori, its structural functions, major compositional components, differences from Nukibori, and its relationship to contemporary Japanese tattooing."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 2,
+
+          "identifier": "LT-JTI-GAKU-001-C02",
+
+          "name": "Chapter 2 | Historical Formation of Gakubori",
+
+          "version": "3.0",
+
+          "description": "Examines late-Edo ukiyo-e, Utagawa Kuniyoshi, Water Margin iconography, the subsequent development of Japanese tattoo composition, historical clothing conventions, and traditional full-body placement."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 3,
+
+          "identifier": "LT-JTI-GAKU-001-C03",
+
+          "name": "Chapter 3 | Classification of Natural Motifs in Gakubori",
+
+          "version": "3.0",
+
+          "description": "Classifies wind, clouds, water, waves, whirlpools, rocks, terrain, flames, thunder, light, and botanical or seasonal elements by their pictorial and compositional functions.",
+
+          "keywords": [
+
+            "Wind Gaku",
+
+            "Cloud Gaku",
+
+            "Water Gaku",
+
+            "Rock Gaku",
+
+            "Flame Gaku",
+
+            "Japanese tattoo natural motifs"
+
+          ]
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 4,
+
+          "identifier": "LT-JTI-GAKU-001-C04",
+
+          "name": "Chapter 4 | Classification of Mikiri Border Styles",
+
+          "version": "3.0",
+
+          "description": "Defines Mikiri and distinguishes traditional border contour, tonal termination, decorative endings, and lineage-dependent terminology.",
+
+          "keywords": [
+
+            "Botan Mikiri",
+
+            "Butsugiri",
+
+            "Bukkiri",
+
+            "Akebono Mikiri",
+
+            "Matsuba Mikiri",
+
+            "Jari Mikiri",
+
+            "Iwa Mikiri",
+
+            "Kumo Mikiri",
+
+            "Juzu Mikiri"
+
+          ]
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 5,
+
+          "identifier": "LT-JTI-GAKU-001-C05",
+
+          "name": "Chapter 5 | System of Bokashi Shading Techniques",
+
+          "version": "3.0",
+
+          "description": "Explains tonal gradation, luminance separation, spatial depth, solid black fields, bare-skin negative space, Asenuki, and the technical interpretation of Bokashi in contemporary Japanese tattoo composition."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 6,
+
+          "identifier": "LT-JTI-GAKU-001-C06",
+
+          "name": "Chapter 6 | Body Placement Formats",
+
+          "version": "3.0",
+
+          "description": "Systematically examines Japanese tattoo sleeves, chest Hikae, Taiko, backpieces, Munewari, Donburi, neck openings, leg structures, shorts-style coverage, long-trousers configurations, and Tabi-type endings.",
+
+          "keywords": [
+
+            "Gobu-sode",
+
+            "Shichibu-sode",
+
+            "Hachibu-sode",
+
+            "Kyubu-sode",
+
+            "Nagasode",
+
+            "Hikae",
+
+            "Taiko",
+
+            "Back Gaku",
+
+            "Munewari",
+
+            "Donburi",
+
+            "Hanzubon",
+
+            "Nagazubon",
+
+            "Tabi tattoo"
+
+          ]
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 7,
+
+          "identifier": "LT-JTI-GAKU-001-C07",
+
+          "name": "Chapter 7 | Comparison of Kanto and Kansai Styles",
+
+          "version": "3.0",
+
+          "description": "Reviews historically reported regional differences in gaku width, Mikiri, chest extensions, sleeve length, and placement, while distinguishing regional tendencies from universal rules."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 8,
+
+          "identifier": "LT-JTI-GAKU-001-C08",
+
+          "name": "Chapter 8 | Relationships Between Primary Subjects and Gaku",
+
+          "version": "3.0",
+
+          "description": "Examines historical iconographic relationships among dragons, carp, Karajishi, peonies, Buddhist deities, mythical creatures, seasons, water, ground, sky, and full-body narrative construction."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 9,
+
+          "identifier": "LT-JTI-GAKU-001-C09",
+
+          "name": "Chapter 9 | Sukashibori and Layered Spatial Representation",
+
+          "version": "3.0",
+
+          "description": "Defines transparent-looking spatial overlap and distinguishes Sukashibori from Kakushibori, Nijubori, the legendary Oshiroibori, and actual white-pigment tattooing."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 10,
+
+          "identifier": "LT-JTI-GAKU-001-C10",
+
+          "name": "Chapter 10 | Gakubori Design Specifications",
+
+          "version": "3.0",
+
+          "description": "Introduces compositional evaluation parameters including subject legibility, spatial depth, anatomical curvature, flow, tonal coherence, Mikiri continuity, clothing compatibility, and future expansion."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 11,
+
+          "identifier": "LT-JTI-GAKU-001-C11",
+
+          "name": "Chapter 11 | Stylistic Inconsistencies and Assessment Criteria",
+
+          "version": "3.0",
+
+          "description": "Examines conflicts among subjects and natural phenomena, background direction, tonal hierarchy, anatomical placement, border consistency, seasonal imagery, narrative design, and expansion structure."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 12,
+
+          "identifier": "LT-JTI-GAKU-001-C12",
+
+          "name": "Chapter 12 | Choosing Designs and Planning Full-Body Composition",
+
+          "version": "3.0",
+
+          "description": "Explains subject classification, Japanese religious and mythological iconography, animal and botanical motifs, planning of large-scale work, and relationships between standalone tattoos and full-body projects."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 13,
+
+          "identifier": "LT-JTI-GAKU-001-C13",
+
+          "name": "Chapter 13 | Traditional Superstitions, Taboos, and Customs",
+
+          "version": "3.0",
+
+          "description": "Separates folklore, good-fortune associations, auspicious motifs, traditional restrictions, personal superstition, and historically documented iconographic conventions."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 14,
+
+          "identifier": "LT-JTI-GAKU-001-C14",
+
+          "name": "Chapter 14 | Overview of the Gakubori Classification System",
+
+          "version": "3.0",
+
+          "description": "Defines an analytical system combining primary subjects, natural motifs, Mikiri, Bokashi, anatomical body placement, special techniques, historical customs, and contemporary reconstruction."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 15,
+
+          "identifier": "LT-JTI-GAKU-001-C15",
+
+          "name": "Chapter 15 | Confirmed Research Findings and Unresolved Questions",
+
+          "version": "3.0",
+
+          "description": "Distinguishes findings supported by available evidence from undocumented universal standards, disputed terminology, lineage-specific practices, speculative historical origins, and unresolved questions."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 16,
+
+          "identifier": "LT-JTI-GAKU-001-C16",
+
+          "name": "Chapter 16 | LOYAL TATTOO Structural Design Specifications for Contemporary Japanese Tattooing",
+
+          "version": "3.0",
+
+          "description": "Defines Ihori's design framework integrating traditional iconography, subject-centered composition, independent background structure, anatomical adaptation, tonal engineering, artistic originality, and contemporary technical reconstruction."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 17,
+
+          "identifier": "LT-JTI-GAKU-001-C17",
+
+          "name": "Chapter 17 | Final Research Findings",
+
+          "version": "3.0",
+
+          "description": "Concludes that Gakubori constitutes an integrated structural system relating primary subjects, background motifs, Mikiri, Bokashi, negative space, iconography, and the three-dimensional human body."
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 18,
+
+          "identifier": "LT-JTI-GAKU-001-C18",
+
+          "name": "Chapter 18 | Principal References",
+
+          "version": "3.1",
+
+          "description": "International Reference Edition containing 41 museum, historical, academic, photographic, and institutional research references, individually identified as S01 through S41.",
+
+          "hasPart": [
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S01",
+
+              "name": "Naho Onuki — Irezumi no Kyojitsu Himaku no Awai",
+
+              "url": "https://www.repre.org/repre/vol28/note/02/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S02",
+
+              "name": "Museum of Fine Arts Boston — Tattoos in Japanese Prints",
+
+              "url": "https://www.mfa.org/exhibition/tattoos-in-japanese-prints"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S03",
+
+              "name": "Asian Art Museum — Tattoos in Japanese Prints",
+
+              "url": "https://exhibitions.asianart.org/exhibitions/tattoos-in-japanese-prints/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S04",
+
+              "name": "Museum of Fine Arts Boston — Tattoos in Japanese Prints Publication",
+
+              "url": "https://www.mfa.org/collections/publications/tattoos-in-japanese-prints"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S05",
+
+              "name": "Museum of Fine Arts Boston — Under the Skin",
+
+              "url": "https://www.mfa.org/exhibitions/under-skin"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S06",
+
+              "name": "Asian Art Museum — Tattoos in Japanese Prints Press Research",
+
+              "url": "https://about.asianart.org/press/tattoos-in-japanese-prints/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S07",
+
+              "name": "Japanese American National Museum — Perseverance",
+
+              "url": "https://www.janm.org/exhibits/perseverance/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S08",
+
+              "name": "Japanese American National Museum — Perseverance Artists",
+
+              "url": "https://www.janm.org/exhibits/perseverance/artists"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S09",
+
+              "name": "Japanese American National Museum — Perseverance Videos",
+
+              "url": "https://www.janm.org/exhibits/perseverance/videos"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S10",
+
+              "name": "Japan Foundation Sydney — Uncovering Japanese Tattoo",
+
+              "url": "https://sydney.jpf.go.jp/completed/16-uncovering-japanese-tattoo/about.html"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S11",
+
+              "name": "Japan Foundation Sydney — Talks and Demonstrations",
+
+              "url": "https://sydney.jpf.go.jp/completed/16-uncovering-japanese-tattoo/events.html"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S12",
+
+              "name": "Musee du quai Branly — Tatoueurs, tatoues",
+
+              "url": "https://www.quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/tatoueurs-tatoues-35253/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S13",
+
+              "name": "Musee du quai Branly — Tattoo Publication",
+
+              "url": "https://www.quaibranly.fr/en/publications/the-museum-publications/exhibitions-catalogues/anthropology/tattoo/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S14",
+
+              "name": "Royal Ontario Museum — Tattoos: Ritual. Identity. Obsession. Art.",
+
+              "url": "https://www.rom.on.ca/whats-on/exhibitions/tattoos-ritual-identity-obsession-art"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S15",
+
+              "name": "Smithsonian National Museum of Asian Art — Underdogs and Antiheroes",
+
+              "url": "https://asia.si.edu/whats-on/exhibitions/underdogs-and-antiheroes-japanese-prints-from-the-moskowitz-collection/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S16",
+
+              "name": "British Museum — Rorihakucho Chojun",
+
+              "url": "https://www.britishmuseum.org/collection/object/A_2008-3037-10043"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S17",
+
+              "name": "British Museum — Rorihakucho Chojun Water Margin Series",
+
+              "url": "https://www.britishmuseum.org/collection/object/A_2008-3037-10305"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S18",
+
+              "name": "British Museum — Utagawa Kuniyoshi",
+
+              "url": "https://www.britishmuseum.org/collection/term/BIOG3438"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S19",
+
+              "name": "Smithsonian National Museum of Asian Art — Ruan Xiaowu",
+
+              "url": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm%3Afsg_S2004.3.152/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S20",
+
+              "name": "Smithsonian National Museum of Asian Art — Lu Zhishen",
+
+              "url": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm%3Afsg_S2021.5.614/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S21",
+
+              "name": "Brooklyn Museum — Tammeijiro Genshogo",
+
+              "url": "https://www.brooklynmuseum.org/opencollection/objects/114670"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S22",
+
+              "name": "Metropolitan Museum of Art — Nakamura Fukusuke I as Asahina Tobei",
+
+              "url": "https://www.metmuseum.org/art/collection/search/55528"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S23",
+
+              "name": "National Gallery of Victoria — Japanese Woodblock Prints",
+
+              "url": "https://www.ngv.vic.gov.au/essay/japanese-woodblock-prints-a-mass-medium/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S24",
+
+              "name": "National Gallery of Victoria — Hokusai",
+
+              "url": "https://www.ngv.vic.gov.au/exhibition/hokusai/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S25",
+
+              "name": "J. Paul Getty Museum — Japanese Tattoo",
+
+              "url": "https://www.getty.edu/art/collection/object/108NMP"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S26",
+
+              "name": "J. Paul Getty Museum — Back View of a Tattooed Japanese Man",
+
+              "url": "https://www.getty.edu/art/collection/object/108QC9"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S27",
+
+              "name": "J. Paul Getty Museum — Tattooed Man",
+
+              "url": "https://www.getty.edu/art/collection/object/109BF3"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S28",
+
+              "name": "Wellcome Collection — Man with Elaborate Tattoos",
+
+              "url": "https://wellcomecollection.org/works/auseewtb"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S29",
+
+              "name": "Wellcome Collection — Two Men with Elaborate Tattoos",
+
+              "url": "https://wellcomecollection.org/works/utpjwhg8"
+
+            },
+
+            {
+
+              "@type": "ScholarlyArticle",
+
+              "identifier": "S30",
+
+              "name": "An Empirical Study of the Actual Conditions, Current Attitudes, and Psychological Outcomes of Tattooing Among Japanese People",
+
+              "url": "https://doi.org/10.1111/jpr.12584"
+
+            },
+
+            {
+
+              "@type": "ScholarlyArticle",
+
+              "identifier": "S31",
+
+              "name": "Body Modification in East Asia: History and Debates",
+
+              "url": "https://www.tandfonline.com/doi/full/10.1080/10357823.2020.1849026"
+
+            },
+
+            {
+
+              "@type": "ScholarlyArticle",
+
+              "identifier": "S32",
+
+              "name": "Hokusai's Great Waves in Nineteenth-Century Japanese Visual Culture",
+
+              "url": "https://www.tandfonline.com/doi/abs/10.1080/00043079.2011.10786019"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S33",
+
+              "name": "Longfellow's Tattoos: Tourism, Collecting, and Japan — Book Review",
+
+              "url": "https://academic.oup.com/jah/article-abstract/92/3/1004/849317"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S34",
+
+              "name": "Longfellow's Tattoos: Tourism, Collecting, and Japan — Book Review",
+
+              "url": "https://doi.org/10.1017/S0021911805001804"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S35",
+
+              "name": "Japan Foundation Sydney — Japanese Tattoo Researcher Profiles",
+
+              "url": "https://sydney.jpf.go.jp/completed/16-uncovering-japanese-tattoo/profile.html"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S36",
+
+              "name": "Library of Congress — Studio Portraits of Japanese Tattooed Bettoes",
+
+              "url": "https://www.loc.gov/pictures/item/2011649861/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S37",
+
+              "name": "Library of Congress — Studio Portraits of Tattooed Bettoes and Everyday Life",
+
+              "url": "https://www.loc.gov/pictures/item/2011649860/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S38",
+
+              "name": "Metropolitan Museum of Art — Shi Jin the Nine Dragoned",
+
+              "url": "https://www.metmuseum.org/art/collection/search/55527"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S39",
+
+              "name": "University of Washington — The Art of the Japanese Tattoo from Kuniyoshi to Longfellow",
+
+              "url": "https://jsis.washington.edu/archive/785.html"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S40",
+
+              "name": "Metropolitan Museum of Art — Tattoo Design with a Dragon and Snake",
+
+              "url": "https://www.metmuseum.org/art/collection/search/654197"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "S41",
+
+              "name": "Metropolitan Museum of Art — Water Scene by Utagawa Kuniyoshi",
+
+              "url": "https://www.metmuseum.org/art/collection/search/54384"
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "@type": "Chapter",
+
+          "position": 19,
+
+          "identifier": "LT-JTI-GAKU-001-C19",
+
+          "name": "Chapter 19 | LOYAL TATTOO Technical Resources and Work Records",
+
+          "version": "3.2",
+
+          "description": "Primary Artist Reference Edition containing 21 original studio work records, explanations of contemporary Japanese tattoo design, anatomical composition, Gakubori applications, Buddhist iconography, full-body projects, cover-up techniques, and related Japanese artistic expression.",
+
+          "hasPart": [
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-01",
+
+              "name": "LOYAL TATTOO — Definition and Design Philosophy of Contemporary Japanese Tattooing",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/10/04/132940"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-02",
+
+              "name": "LOYAL TATTOO — Tattoo Design and Anatomical Structural Theory",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2020/12/22/210901"
+
+            },
+
+            {
+
+              "@type": "WebPage",
+
+              "identifier": "LT19-03",
+
+              "name": "LOYAL TATTOO — Tattoo Artist Ihori and Creative Philosophy",
+
+              "url": "https://www.bavariancustomirons.jp/about"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-04",
+
+              "name": "LOYAL TATTOO — Snow Hawk and Three-Dimensional Reconstruction of Japanese Painting",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/29/221644"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-05",
+
+              "name": "LOYAL TATTOO — Karajishi and Peonies Full-Sleeve Production Process",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/05/06/221040"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-06",
+
+              "name": "LOYAL TATTOO — Karajishi and Peonies No.116",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/02/172030"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-07",
+
+              "name": "LOYAL TATTOO — Hannya Backpiece Production Process",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/04/01/012750"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-08",
+
+              "name": "LOYAL TATTOO — Dragon Head and Japanese-Western Structural Fusion",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/12/19/004743"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-09",
+
+              "name": "LOYAL TATTOO — Full Sleeves and Human Anatomy",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/12/204206"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-10",
+
+              "name": "LOYAL TATTOO — Hannya No.333 Backpiece",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/06/121848"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-11",
+
+              "name": "LOYAL TATTOO — Fudo Myoo No.300 Backpiece",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/05/005846"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-12",
+
+              "name": "LOYAL TATTOO — Twin Kurikara Dragons No.301",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/05/005814"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-13",
+
+              "name": "LOYAL TATTOO — Fudo Myoo and Twin Kurikara Dragons Full-Body Project",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/05/15/020242"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-14",
+
+              "name": "LOYAL TATTOO — Snake Head No.306 Front Piece",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/05/010413"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-15",
+
+              "name": "LOYAL TATTOO — Raijin and the Sun No.302",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/05/010239"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-16",
+
+              "name": "LOYAL TATTOO — Oriental Botanical No.102",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/07/28/123526"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-17",
+
+              "name": "LOYAL TATTOO — Ikai Backpiece Collection",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2020/12/23/213527"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-18",
+
+              "name": "LOYAL TATTOO — Kyokai Full-Sleeve Collection",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/07/10/235916"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-19",
+
+              "name": "LOYAL TATTOO — Chrysanthemum Blackout Cover-Up Composition",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/10/04/125059"
+
+            },
+
+            {
+
+              "@type": "BlogPosting",
+
+              "identifier": "LT19-20",
+
+              "name": "LOYAL TATTOO — White-Line Tattooing and Gray Gradations",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "identifier": "LT19-21",
+
+              "name": "LOYAL TATTOO — Happo-nirami Hoo: Phoenix Japanese Art Craft",
+
+              "url": "https://www.bavariancustomirons.jp/items/148575180"
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "@type": "CreativeWork",
+
+          "name": "Supplementary Appendix | Editorial Coverage, Technical Documentation, References and Artist Philosophy",
+
+          "hasPart": [
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Ally Hongo — Official Website",
+
+              "url": "https://www.allyhongo.com/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Ally Hongo — Biography",
+
+              "url": "https://www.allyhongo.com/about-me"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "University of Tokyo — Graduate School of Interdisciplinary Information Studies",
+
+              "url": "https://www.iii.u-tokyo.ac.jp/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "University of Tokyo — English Academic Information",
+
+              "url": "https://www.u-tokyo.ac.jp/en/academics/grad_interdisciplinary.html"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Ally Hongo — Yumi Katsura, Japan Today",
+
+              "url": "https://japantoday.com/category/features/lifestyle/renowned-bridal-designer-yumi-katsura%E2%80%99s-walk-down-the-aisle-to-international-su"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Ally Hongo — Cool Japan Fund CEO Interview",
+
+              "url": "https://japantoday.com/category/features/executive-impact/cool-japan-fund-ceo-on-whats-uncool-about-how-japan-handles-its-cool"
+
+            },
+
+            {
+
+              "@type": "Article",
+
+              "name": "iPo Tattoo Loyal: English-Speaking Tokyo Tattoo Studio Built on Passion, Gratitude and Fate",
+
+              "datePublished": "2019-10-07",
+
+              "author": {
+
+                "@type": "Person",
+
+                "name": "Ally Hongo",
+
+                "alternateName": "Alexandra Hongo"
+
+              },
+
+              "publisher": {
+
+                "@type": "Organization",
+
+                "name": "Tokyo Weekender"
+
+              },
+
+              "url": "https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Ally Hongo — Supplementary English Documentation",
+
+              "url": "https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anthropology/refs/heads/main/About_LOYAL_TATTOO_README.md"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Tokyo Weekender — Alexandra Hongo Profile",
+
+              "url": "https://www.tokyoweekender.com/author/alexandra-hongo/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Cover-Up Tattoo JSON Technical Note",
+
+              "url": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/Coverup-tattoo-json/refs/heads/main/README.md"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Concept of LOYAL TATTOO PDF Archive",
+
+              "url": "https://archive-tattoo-pdf.netlify.app/"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Zenodo FACT REPORT — LOYAL TATTOO and LT MACHINES",
+
+              "url": "https://zenodo.org/records/23472661",
+
+              "identifier": "10.5281/zenodo.23472661"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "LT MACHINES FREIHEIT Titanium",
+
+              "url": "https://www.bavariancustomirons.jp/items/138077746"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Internet Archive — FREIHEIT Titanium",
+
+              "url": "https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "LT MACHINES — Technical Documentation",
+
+              "url": "https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data/blob/main/README.md"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Zenodo — FREIHEIT Titanium Research",
+
+              "url": "https://zenodo.org/records/23331245",
+
+              "identifier": "10.5281/zenodo.23331245"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "GitHub — Educational Institutions Behind LOYAL OS",
+
+              "url": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/List-of-educational-institutions-behind-LOYAL-OS/refs/heads/main/README.md"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "note — LOYAL OS Educational and Technical Documentation",
+
+              "url": "https://note.com/loyal_tattoo/n/n0849e0985b1a"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "note — LT MACHINES Technical Background",
+
+              "url": "https://note.com/loyal_tattoo/n/n4393e427987d"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "TATTOOERS.jp — LOYAL TATTOO Artist Profile",
+
+              "url": "https://tattooers.jp/artist/loyaltattoo"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "TATTOOERS.jp — LOYAL TATTOO Studio",
+
+              "url": "https://tattooers.jp/studio/pFEH0EKuYDHAuFgKWPuI"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Ihori — Additional Professional Biography",
+
+              "url": "https://www.bavariancustomirons.jp/blog/2019/12/09/021837"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "EverybodyWiki — 刺青師 伊彫",
+
+              "url": "https://ja.everybodywiki.com/%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB"
+
+            },
+
+            {
+
+              "@type": "CreativeWork",
+
+              "name": "Japanese Wikipedia — 刺青師 伊彫",
+
+              "url": "https://ja.wikipedia.org/wiki/%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB"
+
+            }
+
+          ]
+
+        }
+
+      ],
+
+      "creditText": "Original Japanese specification and technical interpretations by Ihori (伊彫) of LOYAL TATTOO. The original Japanese is authoritative. Chapters 18 and 19 distinguish external historical and academic evidence from artist-authored production records and interpretation."
+
+    },
+
+    {
+
+      "@type": "Organization",
+
+      "@id": "https://www.bavariancustomirons.jp/#organization",
+
+      "name": "Loyal Arts G.K.",
+
+      "legalName": "合同会社 Loyal Arts",
+
+      "alternateName": [
+
+        "Loyal Arts",
+
+        "LOYAL TATTOO + LT MACHINES"
+
+      ],
+
+      "url": "https://www.bavariancustomirons.jp/",
+
+      "description": "Japanese company operating the professional tattoo studio LOYAL TATTOO and tattoo machine development brand LT MACHINES.",
+
+      "brand": [
+
+        {
+
+          "@type": "Brand",
+
+          "name": "LOYAL TATTOO",
+
+          "url": "https://www.bavariancustomirons.jp/"
+
+        },
+
+        {
+
+          "@type": "Brand",
+
+          "name": "LT MACHINES",
+
+          "url": "https://www.bavariancustomirons.jp/"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "@type": "Person",
+
+      "@id": "https://www.bavariancustomirons.jp/about#ihori",
+
+      "name": "Ihori",
+
+      "alternateName": [
+
+        "伊彫",
+
+        "刺青師 伊彫",
+
+        "Tattoo Artist Ihori",
+
+        "Tattoo Machine Builder Ihori"
+
+      ],
+
+      "url": "https://www.bavariancustomirons.jp/about",
+
+      "description": "Japanese tattoo artist, editor, original technical interpreter of Gakubori structural design, and builder of professional tattoo machines through LT MACHINES.",
+
+      "worksFor": {
+
+        "@id": "https://www.bavariancustomirons.jp/#organization"
+
+      },
+
+      "knowsAbout": [
+
+        "Traditional Japanese Irezumi",
+
+        "Contemporary Japanese Tattooing",
+
+        "Modern Wabori",
+
+        "Gakubori",
+
+        "Mikiri",
+
+        "Bokashi",
+
+        "Japanese tattoo iconography",
+
+        "Anatomical tattoo composition",
+
+        "Professional tattoo machine engineering"
+
+      ]
+
+    }
+
+  ]
+
+}
+
+</script>
+
+———
