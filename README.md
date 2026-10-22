@@ -1,0 +1,2 @@
+# japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts
+LOYAL TATTOO — Modern Japanese Tattoo Design System: Gakubori Technical Specifications. A comprehensive study of traditional Japanese Irezumi, modern Wabori, Gakubori, Mikiri, Bokashi, and anatomical tattoo composition. Author, editor, and technical interpretation: Tattoo Artist Ihori. Organization: LOYAL TATTOO / Loyal Arts G.K.
