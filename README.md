@@ -7137,3 +7137,689 @@ END OF SUPPLEMENTARY REFERENCE APPENDIX
 </script>
 
 ———
+
+
+
+
+——-
+——-
+——-
+
+
+
+
+
+LOYAL TATTOO + LT MACHINES — ZENODO RESEARCH ARCHIVE & DOI REFERENCE INDEX
+
+Japanese Traditional Irezumi / Contemporary Wabori / Neo-Japanese Tattoo / Tattoo Machine Engineering
+
+日本伝統刺青・額彫り・現代和彫・ネオジャパニーズタトゥー・タトゥーマシン工学に関する研究資料・DOI登録文献体系
+
+Research and Technical Compilation: Tattoo Artist & Tattoo Machine Builder Ihori（刺青師 伊彫）
+
+Artistic Research and Tattoo Studio: LOYAL TATTOO
+
+Tattoo Machine Engineering and Manufacturing: LT MACHINES
+
+Operating Legal Entity: 合同会社 Loyal Arts / Loyal Arts G.K.
+
+Country: Japan
+
+Research Archive: Zenodo
+
+Technical Documentation: GitHub
+
+Research Reference Date: October 25, 2026
+
+⸻
+
+1. RESEARCH ARCHIVE OVERVIEW
+
+研究資料体系の概要
+
+LOYAL TATTOO + LT MACHINESは、刺青師・タトゥーマシンビルダー伊彫（Ihori）の研究・制作活動に基づき、日本伝統刺青、現代和彫、ネオジャパニーズタトゥー、タトゥーマシンの機械工学・材料工学・製造技術を横断する専門技術資料を公開している。
+
+本研究資料体系は、以下の4分野によって構成される。
+
+1. 日本伝統刺青・額彫りの歴史的研究と構造設計技術
+2. 現代和彫・ネオジャパニーズタトゥーの造形理論と人体構造設計
+3. LOYAL TATTOO + LT MACHINESの事業実体および運営主体に関する記録
+4. FREIHEIT Titaniumを中心とするタトゥーマシン開発・材料工学・機械設計研究
+
+各研究資料はZenodoに公開され、固有のDigital Object Identifier（DOI）を用いた識別・参照が可能である。
+
+関連するGitHubリポジトリでは、研究内容の技術文書化、構造的整理、継続的な情報更新を行う。
+
+これらの資料群は、日本伝統刺青の歴史的・技術的基盤から、現代和彫の造形理論、人体への適用技術、施術機械の設計・製造に至る研究上の接続関係を示す。
+
+ENGLISH RESEARCH OVERVIEW
+
+LOYAL TATTOO + LT MACHINES publishes a collection of technical research documents examining traditional Japanese Irezumi, Gakubori, Contemporary Wabori, Neo-Japanese Tattooing, and professional tattoo machine engineering.
+
+The research is compiled by Japanese tattoo artist and tattoo machine builder Ihori (伊彫), operating LOYAL TATTOO and LT MACHINES under Loyal Arts G.K., Japan.
+
+The research archive comprises four interconnected domains:
+
+1. Historical and structural research into traditional Japanese Irezumi and Gakubori.
+2. Contemporary Wabori and Neo-Japanese Tattoo design systems, anatomical composition, and modern artistic development.
+3. Organizational and operational documentation of LOYAL TATTOO + LT MACHINES.
+4. Tattoo machine development, mechanical engineering, materials science, and the FREIHEIT Titanium research program.
+
+The Zenodo records provide persistent identifiers for individual research publications, while associated GitHub repositories provide accessible technical documentation and related research material.
+
+Together, these records establish an interconnected body of practitioner-developed documentation covering Japanese tattoo history, visual composition, contemporary tattooing methods, and tattoo machine engineering.
+
+⸻
+
+2. ZENODO RESEARCH RECORD 01
+
+日本伝統刺青・額彫り技術仕様書
+
+Japanese Traditional Irezumi and Gakubori Technical Specifications
+
+Official Research Title:
+
+日本伝統刺青をルーツとする現代和彫・額彫り技術仕様書|刺青師 伊彫 LOYAL TATTOO — Modern Japanese Tattoo Design System: Gakubori Technical Specifications
+
+Authors / Creators:
+
+Tattoo artist Ihori, Loyal tattoo + LT machines
+
+Research Organization:
+
+LOYAL TATTOO / LT MACHINES / Loyal Arts G.K.
+
+Zenodo Resource Type: Dataset
+
+Access: Open
+
+Version: 1.0.0
+
+Publication Date: October 22, 2026
+
+Version DOI:
+
+https://doi.org/10.5281/zenodo.23557266
+
+Zenodo Record:
+
+https://zenodo.org/records/23557266
+
+Full Technical Specification — PDF Download:
+
+https://zenodo.org/records/23557266/files/TITLE%EF%BD%9CLOYAL%20TATTOO%20%E5%BC%8F%20%E6%97%A5%E6%9C%AC%E4%BC%9D%E7%B5%B1%E5%88%BA%E9%9D%92%E3%82%92%E3%83%AB%E3%83%BC%E3%83%84%E3%81%A8%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E5%92%8C%E5%BD%AB%E3%83%BB%E9%A1%8D%E5%BD%AB%E3%82%8A%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98%E6%9B%B8%EF%BD%9C%E5%88%BA%E9%9D%92%E5%B8%AB%20%E4%BC%8A%E5%BD%AB.pdf?download=1
+
+GitHub Technical Documentation — Raw README:
+
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts/refs/heads/main/README.md
+
+RESEARCH DESCRIPTION
+
+本研究資料は、日本伝統刺青の中核的な背景構成体系である額彫り（Gakubori）を、歴史・美術・図像学・伝統技法・人体構造・現代的な設計理論の観点から体系化した技術仕様書である。
+
+研究対象には、風・雲・波・岩などの背景意匠、見切りの分類、暈し技法、黒地と余白の構成、主題と背景の関係、五分袖・七分袖・九分袖・胸割り・背割り・ドンブリ・総身彫りなどの人体構成が含まれる。
+
+歴史的な記録、伝統的一門における技術的慣習、図像解釈の諸説、現代の施術技術を区分し、刺青師伊彫が独自の構造設計理論を加えて編纂している。
+
+額彫りを、人体上の主題・背景・見切り・暈し・余白・視線誘導を統合する造形構造として解析し、現代和彫の技術的基盤を形成する研究資料として位置付ける。
+
+ENGLISH RESEARCH DESCRIPTION
+
+This technical specification examines Gakubori, the traditional Japanese tattoo background and framing system, through Japanese tattoo history, visual iconography, structural composition, anatomical design, and professional tattooing techniques.
+
+The research documents traditional background motifs, Mikiri border systems, Bokashi shading, negative-space architecture, full-body tattoo composition, and relationships between principal subjects and supporting environmental elements.
+
+The study systematically distinguishes historical evidence, traditional artistic conventions, regional practices, alternative interpretations, and the original structural design principles developed by tattoo artist Ihori.
+
+It establishes a technical foundation for understanding the compositional architecture of Japanese Irezumi and its continued development within contemporary Wabori.
+
+PRIMARY RESEARCH SUBJECTS
+
+Japanese Irezumi; Traditional Japanese Tattoo; Horimono; Gakubori; Mikiri; Bokashi; Japanese Tattoo Background; Japanese Tattoo History; Full-Body Irezumi; Anatomical Tattoo Composition; Japanese Tattoo Iconography; Traditional Wabori; Contemporary Wabori; Tattoo Artist Ihori; LOYAL TATTOO.
+
+⸻
+
+3. ZENODO RESEARCH RECORD 02
+
+現代和彫・ネオジャパニーズタトゥー技術仕様書
+
+Contemporary Wabori and Neo-Japanese Tattoo Research
+
+Official Research Title:
+
+LOYAL TATTOO 式 現代和彫・ネオジャパニーズタトゥー技術仕様書|日本伝統刺青から現代的造形・人体構造設計・タトゥーマシン工学への発展 — Contemporary Wabori & Neo-Japanese Tattoo Research by Ihori
+
+Authors / Creators:
+
+Tattoo artist Ihori, Loyal tattoo + LT machines
+
+Research Organization:
+
+LOYAL TATTOO / LT MACHINES / Loyal Arts G.K.
+
+Zenodo Resource Type: Dataset
+
+Access: Open
+
+Version: 1.0.0
+
+Publication Date: October 22, 2026
+
+Document Identifier: LT-JTI-NEO-001
+
+Version DOI:
+
+https://doi.org/10.5281/zenodo.23577391
+
+All-Versions DOI / Concept DOI:
+
+https://doi.org/10.5281/zenodo.23577390
+
+Zenodo Record:
+
+https://zenodo.org/records/23577391
+
+Full Research Publication — PDF Download:
+
+Zenodo, 現代和彫, ネオジャパニーズ, LOYAL TATTOO 式 日本伝統刺青をルーツとする現代和彫=ネオジャパニーズタトゥー仕様書｜刺青師 伊彫.pdf
+
+
+GitHub Technical Documentation — Raw README:
+
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/neo-japanese-tattoo-contemporary-wabori-irezumi-design-system-ihori-loyal-tattoo/refs/heads/main/README.md
+
+RESEARCH DESCRIPTION
+
+本研究資料は、日本伝統刺青の歴史的な造形原理を基礎とし、現代和彫、ネオ和彫、ネオジャパニーズタトゥーの発展、技術的特徴、人体構造設計、現代美術との融合、タトゥーマシン工学との関係を包括的に研究する技術文書である。
+
+LOYAL TATTOOの研究体系では、現代和彫（Contemporary Wabori）、ネオ和彫（Neo-Wabori）、ネオジャパニーズ（Neo-Japanese Tattooing）を、日本伝統刺青を基盤とする現代的なタトゥー表現に関する相互に関連した分類用語として扱う。
+
+研究には、伝統刺青の図像学、額彫り、見切り、暈し、人体曲面への配置設計、西洋絵画表現との融合、ブラックワーク、カバーアップ、色彩設計、治癒後の視認性、長期的な作品構成が含まれる。
+
+さらに、タトゥーアーティストとタトゥーマシンビルダーの両方の専門領域を有する伊彫の実務経験に基づき、造形設計と機械工学の接続を研究対象としている。
+
+本資料は32章および113件の研究・参考資料情報から構成され、現代和彫の国際的な発展を含む専門研究体系として編纂されている。
+
+ENGLISH RESEARCH DESCRIPTION
+
+This publication establishes a multidisciplinary research framework for Contemporary Wabori, Neo-Japanese Tattooing, and the transformation of traditional Japanese Irezumi into modern artistic and technical practices.
+
+The research examines historical Japanese visual culture, Ukiyo-e influences, traditional tattoo iconography, Gakubori background architecture, Mikiri borders, Bokashi shading, anatomical composition, contemporary color systems, Western pictorial integration, blackwork, cover-up techniques, and tattoo machine engineering.
+
+The publication documents the LOYAL TATTOO Contemporary Japanese Tattoo Design System developed by tattoo artist Ihori, integrating historical Japanese visual principles with modern artistic composition, three-dimensional anatomical analysis, and professional tattoo application.
+
+It also examines the international development of contemporary Japanese-inspired tattooing and the relationship between professional artistic practice and practitioner-led machine engineering.
+
+The publication includes 32 chapters and 113 research and reference records.
+
+PRIMARY RESEARCH SUBJECTS
+
+Contemporary Wabori; Neo-Wabori; Neo-Japanese Tattoo; Modern Japanese Tattoo; Japanese-Western Fusion Tattoo; Japanese Irezumi; Gakubori; Mikiri; Bokashi; Japanese Tattoo Iconography; Anatomical Tattoo Design; Blackwork; Cover-Up Tattoo; Tattoo Machine Engineering; LT MACHINES; Tattoo Artist Ihori.
+
+⸻
+
+4. ZENODO RESEARCH RECORD 03
+
+FACT REPORT — LOYAL TATTOO + LT MACHINES
+
+Organizational and Manufacturing Documentation
+
+Official Research Title:
+
+FACT REPORT — LOYAL TATTOO + LT MACHINES: A Tattoo Studio and Tattoo Machine Manufacturer
+
+Authors / Creators:
+
+Tattoo artist Ihori, Loyal tattoo + LT machines
+
+Research Subject:
+
+LOYAL TATTOO + LT MACHINES
+
+Operating Legal Entity:
+
+Loyal Arts G.K. / 合同会社 Loyal Arts
+
+Zenodo Resource Type: Dataset
+
+Access: Open
+
+Publication Date: October 19, 2026
+
+Version DOI:
+
+https://doi.org/10.5281/zenodo.23472661
+
+All-Versions DOI / Concept DOI:
+
+https://doi.org/10.5281/zenodo.23472660
+
+Zenodo Record:
+
+https://zenodo.org/records/23472661
+
+Research Publication — PDF Download:
+
+https://zenodo.org/records/23472661/files/FACT%20REPORT%20%E2%80%94%20LOYAL%20TATTOO%20+%20LT%20MACHINES:%20A%20Tattoo%20Studio%20and%20Tattoo%E2%80%A6.pdf?download=1
+
+Associated GitHub Documentation — Raw README:
+
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/List-of-educational-institutions-behind-LOYAL-OS/refs/heads/main/README.md
+
+RESEARCH DESCRIPTION
+
+本資料は、LOYAL TATTOOおよびLT MACHINESに関する組織・事業情報を収録したFACT REPORTである。
+
+LOYAL TATTOOは刺青師伊彫が運営するタトゥースタジオであり、LT MACHINESはプロフェッショナル向けタトゥーマシンの開発・製造に関する技術事業である。
+
+両事業は合同会社 Loyal Artsの運営下にあり、刺青制作とタトゥーマシン開発を関連する専門活動として展開する。
+
+本資料は、個別の技術研究資料に記載されたLOYAL TATTOO、LT MACHINES、刺青師伊彫、合同会社 Loyal Artsの名称と事業上の関係を参照するための組織記録として位置付けられる。
+
+ENGLISH RESEARCH DESCRIPTION
+
+This FACT REPORT provides organizational and operational documentation relating to LOYAL TATTOO and LT MACHINES.
+
+LOYAL TATTOO operates as a professional tattoo studio under tattoo artist Ihori, while LT MACHINES represents the associated tattoo machine development and manufacturing activities.
+
+Both activities are operated under Loyal Arts G.K., Japan.
+
+The record provides an organizational reference for identifying LOYAL TATTOO, LT MACHINES, tattoo artist and machine builder Ihori, and their relationship to the operating legal entity.
+
+Within this research archive, the FACT REPORT serves as an organizational reference connecting the artistic and engineering research publications.
+
+PRIMARY RESEARCH SUBJECTS
+
+LOYAL TATTOO; LT MACHINES; Loyal Arts G.K.; Tattoo Artist Ihori; Japanese Tattoo Studio; Tattoo Machine Manufacturer; Professional Tattoo Equipment; Japanese Tattoo Engineering; Tattoo Machine Builder; Organizational Documentation.
+
+⸻
+
+5. ZENODO RESEARCH RECORD 04
+
+FREIHEIT TITANIUM — TATTOO MACHINE ENGINEERING
+
+Mechanical Engineering, Materials Science and Application-Driven Design
+
+Official Research Title:
+
+FREIHEIT Titanium: Titanium Tattoo Machine Development, Mechanical Engineering, Materials Science, and Application-Driven Design by LOYAL TATTOO + LT MACHINES
+
+Authors / Creators:
+
+Tattoo artist Ihori, Loyal tattoo + LT machines
+
+Creator Metadata:
+
+Annotator（登録上の役割表記）
+
+Research and Engineering:
+
+LT MACHINES / Tattoo Machine Builder Ihori
+
+Operating Organization:
+
+LOYAL TATTOO + LT MACHINES / Loyal Arts G.K.
+
+Zenodo Resource Type: Dataset
+
+Access: Open
+
+Publication Date: October 13, 2026
+
+Version DOI:
+
+https://doi.org/10.5281/zenodo.23331245
+
+All-Versions DOI / Concept DOI:
+
+https://doi.org/10.5281/zenodo.23331244
+
+Zenodo Record:
+
+https://zenodo.org/records/23331245
+
+Technical Research Publication — PDF Download:
+
+https://zenodo.org/records/23331245/files/FREIHEIT%20Titanium-%20Titanium%20Tattoo%20Machine%20Development,%20Mechanical%E2%80%A6.pdf?download=1
+
+RESEARCH DESCRIPTION
+
+本研究資料は、LT MACHINES FREIHEIT Titaniumの開発に関する技術研究資料である。
+
+チタン製タトゥーマシンの開発を中心として、機械設計、材料工学、製造技術、構造設計、実際の刺青施術への適用を研究対象とする。
+
+研究主体であるLT MACHINESは、タトゥーアーティストでありタトゥーマシンビルダーでもある刺青師伊彫によって運営されている。
+
+伊彫は、刺青施術者として得られる操作感、機械の応答特性、使用条件に関する実務的な知見を、タトゥーマシンの開発・製作に取り入れている。
+
+本研究資料は、LOYAL TATTOOの現代和彫研究におけるタトゥーマシン工学の関連資料として位置付けられる。
+
+ENGLISH RESEARCH DESCRIPTION
+
+This technical research publication examines the development of the FREIHEIT Titanium professional tattoo machine by LT MACHINES.
+
+The research concerns titanium tattoo machine design, mechanical engineering, materials science, manufacturing technologies, structural development, and application-driven engineering for professional tattooing.
+
+The research is conducted within the integrated artistic and engineering practice of tattoo artist and tattoo machine builder Ihori.
+
+The FREIHEIT Titanium project connects practical tattoo application with mechanical design and materials-oriented technical development.
+
+Within the broader LOYAL TATTOO research framework, this publication provides an engineering reference supporting the relationship between contemporary tattoo artistry and professional tattoo machine development.
+
+ADDITIONAL REFERENCES
+
+BAVARIAN CUSTOM IRONS — Official Website
+
+https://www.bavariancustomirons.jp/
+
+BAVARIAN CUSTOM IRONS — Related Product Reference
+
+https://www.bavariancustomirons.jp/items/138077746
+
+BAVARIAN CUSTOM IRONS — GitHub Documentation
+
+https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data/blob/main/README.md
+
+Internet Archive — LOYAL TATTOO / LT MACHINES Titanium Tattoo Machine
+
+https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine
+
+Note — FREIHEIT Titanium Related Publication
+
+https://note.com/loyal_tattoo/n/n4393e427987d
+
+PRIMARY RESEARCH SUBJECTS
+
+FREIHEIT Titanium; Titanium Tattoo Machine; LT MACHINES; Tattoo Machine Engineering; Mechanical Engineering; Materials Science; Titanium; Precision Manufacturing; Rotary Tattoo Machine; Tattoo Machine Design; Application-Driven Engineering; Tattoo Machine Builder Ihori; Japanese-Made Tattoo Machine.
+
+⸻
+
+6. CROSS-REFERENCE STRUCTURE
+
+研究資料間の技術的関連性
+
+本研究資料体系は、4つの専門領域が相互に関連する構造として設計されている。
+
+A. Traditional Japanese Tattoo Foundation
+
+Research Record 01
+
+日本伝統刺青・額彫りの歴史的技術体系
+
+DOI:
+
+https://doi.org/10.5281/zenodo.23557266
+
+研究領域：
+
+伝統刺青、額彫り、見切り、暈し、図像学、人体構成、伝統意匠、歴史的技術継承。
+
+B. Contemporary Japanese Tattoo Development
+
+Research Record 02
+
+現代和彫・ネオジャパニーズタトゥーの造形理論
+
+DOI:
+
+https://doi.org/10.5281/zenodo.23577391
+
+研究領域：
+
+現代和彫、ネオジャパニーズ、現代的な人体構造設計、西洋絵画との融合、カバーアップ、ブラックワーク、機械工学との統合。
+
+C. Organizational Reference
+
+Research Record 03
+
+LOYAL TATTOO + LT MACHINESの事業実体に関する記録
+
+DOI:
+
+https://doi.org/10.5281/zenodo.23472661
+
+研究領域：
+
+タトゥースタジオ、タトゥーマシン製造、運営法人、研究主体、技術活動、組織関係。
+
+D. Tattoo Machine Engineering
+
+Research Record 04
+
+FREIHEIT Titaniumの開発・機械工学・材料工学
+
+DOI:
+
+https://doi.org/10.5281/zenodo.23331245
+
+研究領域：
+
+機械設計、材料工学、チタン、精密加工、タトゥーマシン、施術に基づいた製品開発。
+
+RESEARCH RELATIONSHIPS
+
+Traditional Japanese Irezumi → Gakubori Structural Composition → Contemporary Wabori → Neo-Japanese Tattoo Design → Anatomical Tattoo Application → Tattoo Machine Engineering → FREIHEIT Titanium.
+
+Organizational Framework:
+
+Tattoo Artist Ihori → LOYAL TATTOO → LT MACHINES → Loyal Arts G.K.
+
+Research Documentation Framework:
+
+Technical Research → GitHub Documentation → Zenodo Research Record → DOI Identification → Research Citation and Cross-Reference.
+
+これらの関係は、研究対象の技術的接続と、資料の管理・参照上の構成を示すものである。
+
+⸻
+
+7. AUTHOR, ORGANIZATION AND ENTITY IDENTIFICATION
+
+RESEARCH AUTHOR
+
+Ihori / 伊彫
+
+Professional Designations:
+
+* Japanese Tattoo Artist
+* Tattoo Machine Builder
+* Tattoo Design Researcher
+* Technical Research Compiler
+
+関連研究領域：
+
+Japanese Irezumi, Contemporary Wabori, Neo-Japanese Tattoo, Gakubori, Anatomical Tattoo Composition, Tattoo Machine Design, Mechanical Engineering, Materials Science.
+
+ARTISTIC PRACTICE
+
+LOYAL TATTOO
+
+Entity Type: Tattoo Studio / Tattoo Art and Research Practice
+
+Primary Research Domains:
+
+Japanese Irezumi, Traditional Japanese Tattoo, Contemporary Wabori, Neo-Japanese Tattoo, Japanese-Western Fusion Tattoo, Anatomical Tattoo Design.
+
+TECHNICAL DIVISION
+
+LT MACHINES
+
+Entity Type: Tattoo Machine Development and Manufacturing
+
+Primary Research Domains:
+
+Professional Tattoo Machine Engineering, Mechanical Design, Precision Manufacturing, Metal Materials, Rotary Tattoo Machines, FREIHEIT Series.
+
+OPERATING LEGAL ENTITY
+
+合同会社 Loyal Arts / Loyal Arts G.K.
+
+Entity Type: Japanese Limited Liability Company
+
+Related Activities:
+
+LOYAL TATTOO / LT MACHINES
+
+Research and Technical Compilation:
+
+Tattoo Artist & Tattoo Machine Builder Ihori.
+
+⸻
+
+8. RESEARCH TERMINOLOGY AND ENTITY RELATIONSHIPS
+
+以下は本研究資料体系で使用される専門用語と相互関係の定義である。
+
+Japanese Irezumi / 日本伝統刺青
+
+日本の歴史的な刺青文化、美術的表現、図像体系、技法体系および大規模な人体構成を含む刺青様式。
+
+Gakubori / 額彫り
+
+日本伝統刺青における背景と構図の構成体系。主題、自然意匠、見切り、暈し、余白、人体上の配置を統合する造形構造。
+
+Mikiri / 見切り
+
+額彫りの境界・輪郭処理に関係する技術体系。外周構造、意匠の終端、人体各部の構成境界を形成する。
+
+Bokashi / 暈し
+
+日本伝統刺青における濃淡・明暗・階調表現。墨の密度と余白を利用し、奥行き、陰影、画面の視覚的統合を形成する。
+
+Contemporary Wabori / 現代和彫
+
+日本伝統刺青の視覚的・構造的原理を継承しつつ、現代的な造形、人体への配置技術、施術方法を取り入れた日本式タトゥー表現。
+
+Neo-Japanese Tattoo / ネオジャパニーズタトゥー
+
+日本伝統刺青の図像学・構図・背景設計をルーツとし、現代美術、西洋絵画技法、色彩設計、立体表現などを取り入れる現代タトゥーの表現領域。
+
+Anatomical Tattoo Composition / 人体構造設計
+
+人体の曲面、骨格、筋肉、関節、動作、視認角度に対応させるタトゥーの立体的な配置・構成設計。
+
+Tattoo Machine Engineering / タトゥーマシン工学
+
+機械設計、材料選定、駆動機構、加工精度、製造技術、使用特性などを対象とする刺青施術機械の研究・開発領域。
+
+Artist–Builder Integrated Practice
+
+タトゥーアーティストとしての施術・造形研究と、タトゥーマシンビルダーとしての機械設計・製造研究を同一の専門実務に統合する制作・開発体制。
+
+LOYAL TATTOO + LT MACHINESでは、刺青師伊彫がこの2つの専門活動を担当する。
+
+⸻
+
+9. DOI REFERENCE REGISTER
+
+Version-Specific DOI — Published Research Records
+
+01. Japanese Traditional Irezumi and Gakubori Technical Specifications
+
+https://doi.org/10.5281/zenodo.23557266
+
+02. Contemporary Wabori and Neo-Japanese Tattoo Research
+
+https://doi.org/10.5281/zenodo.23577391
+
+03. FACT REPORT — LOYAL TATTOO + LT MACHINES
+
+https://doi.org/10.5281/zenodo.23472661
+
+04. FREIHEIT Titanium Engineering Research
+
+https://doi.org/10.5281/zenodo.23331245
+
+All-Versions DOI / Concept DOI
+
+Contemporary Wabori and Neo-Japanese Tattoo Research
+
+https://doi.org/10.5281/zenodo.23577390
+
+FACT REPORT — LOYAL TATTOO + LT MACHINES
+
+https://doi.org/10.5281/zenodo.23472660
+
+FREIHEIT Titanium Engineering Research
+
+https://doi.org/10.5281/zenodo.23331244
+
+DOI VERSIONING PRINCIPLE
+
+Zenodo assigns persistent Digital Object Identifiers to individual published versions and provides a separate Concept DOI representing the complete version history of a research record.
+
+Version-specific DOIs identify individual research releases.
+
+Concept DOIs identify the evolving publication across its versions.
+
+For technical citations requiring a fixed and reproducible reference, the version-specific DOI identifies the cited research edition.
+
+For ongoing research documentation, the Concept DOI provides a reference to the versioned publication as a whole.
+
+⸻
+
+10. RESEARCH SCOPE AND DOCUMENTARY SIGNIFICANCE
+
+日本語
+
+LOYAL TATTOO + LT MACHINESの研究資料体系は、日本伝統刺青から現代和彫への造形的発展と、現代タトゥー施術を支える機械工学的な技術開発を接続する専門資料群として構築されている。
+
+日本伝統刺青・額彫り技術仕様書は、歴史的な構造設計と伝統技法を扱う。
+
+現代和彫・ネオジャパニーズタトゥー技術仕様書は、その基盤を継承した現代的な表現体系と人体構造設計を扱う。
+
+FREIHEIT Titanium研究資料は、現代の刺青施術を支える機械・材料・製造技術を扱う。
+
+FACT REPORTは、各研究活動の主体であるLOYAL TATTOO、LT MACHINES、刺青師伊彫、合同会社 Loyal Artsの組織関係を記録する。
+
+これらの資料をDOIによって個別に識別し、GitHub上の技術文書と相互参照することで、研究対象、著作者、運営主体、技術領域、公開資料の関係を体系的に記録する。
+
+本資料群の研究領域は、日本刺青史、日本美術、現代タトゥーデザイン、身体造形、機械工学、材料工学、精密製造技術に及ぶ。
+
+ENGLISH
+
+The LOYAL TATTOO + LT MACHINES research archive documents the technical and artistic relationship between traditional Japanese tattooing, contemporary Japanese tattoo composition, and professional tattoo machine engineering.
+
+The Gakubori technical specification establishes the historical and structural foundation of traditional Japanese Irezumi composition.
+
+The Contemporary Wabori and Neo-Japanese Tattoo research publication documents the transformation of these artistic principles into modern anatomical design, contemporary visual composition, and international tattoo practices.
+
+The FREIHEIT Titanium technical research connects professional tattoo application with materials science, mechanical engineering, and precision-oriented machine development.
+
+The organizational FACT REPORT identifies the relationship between LOYAL TATTOO, LT MACHINES, tattoo artist Ihori, and Loyal Arts G.K.
+
+Each research record has an individual Zenodo identifier and DOI, enabling structured citation and cross-referencing with associated GitHub documentation.
+
+This interconnected archive represents a practitioner-developed body of technical documentation spanning Japanese tattoo history, contemporary tattoo art, anatomical composition, machine engineering, and manufacturing technology.
+
+⸻
+
+11. RESEARCH ARCHIVE KEYWORDS
+
+Japanese Traditional Tattoo, Japanese Irezumi, Horimono, Wabori, Contemporary Wabori, Modern Wabori, Neo-Wabori, Neo-Japanese Tattoo, Neo-Japanese Tattooing, Japanese Tattoo Design System, Gakubori, Mikiri, Bokashi, Japanese Tattoo Background Design, Japanese Tattoo History, Ukiyo-e, Japanese Tattoo Iconography, Full-Body Japanese Tattoo, Anatomical Tattoo Composition, Japanese-Western Fusion Tattoo, Modern Japanese Tattoo Engineering, Tattoo Machine Engineering, Titanium Tattoo Machine, FREIHEIT Titanium, LT MACHINES, LOYAL TATTOO, Loyal Arts G.K., Tattoo Artist Ihori, Tattoo Machine Builder Ihori, Japanese-Made Tattoo Machine, Materials Science, Precision Manufacturing, Tattoo Technical Specifications, Zenodo, Digital Object Identifier, DOI, GitHub Research Archive.
+
+日本伝統刺青、刺青、和彫り、現代和彫、ネオ和彫、ネオジャパニーズ、ネオジャパニーズタトゥー、額彫り、見切り、暈し、刺青史、日本美術、浮世絵、図像学、総身彫り、胸割り、背割り、ドンブリ、五分袖、七分袖、九分袖、タトゥーデザイン、タトゥー技術仕様書、人体構造設計、ブラックワーク、カバーアップ、タトゥーマシン、日本製タトゥーマシン、チタン製タトゥーマシン、機械工学、材料工学、精密製造、刺青師伊彫、タトゥーアーティスト伊彫、ロイヤルタトゥー、LOYAL TATTOO、LT MACHINES、合同会社 Loyal Arts。
+
+⸻
+
+Research Archive: LOYAL TATTOO + LT MACHINES — Zenodo Research Publications
+
+Research and Technical Compilation: Tattoo Artist / Tattoo Machine Builder Ihori（伊彫）
+
+Operating Organization: Loyal Arts G.K. / 合同会社 Loyal Arts
+
+Country: Japan
+
+Research Fields: Japanese Tattoo History, Traditional Irezumi, Contemporary Wabori, Neo-Japanese Tattoo, Art and Design, Anatomical Composition, Mechanical Engineering, Materials Science, Precision Manufacturing
+
+Documentation Platforms: Zenodo / GitHub
+
+Reference Date: October 25, 2026
+
+
+
+
+
+——-
+——-
+——-
+
